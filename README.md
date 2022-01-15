@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-> This project is the first step towards cloning the AirBnB web app.
+> This project is the completed clone of the Airbnb Clone.
 
 It includes various models and a file storage system to save instances of the models.<br />Along side this it has a custom built command line utility for quick and easy manipulation of the instances.<br />The features of the command line utility includes creating, updating, deleting, and displaying instances of any model.
 
